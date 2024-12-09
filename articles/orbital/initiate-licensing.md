@@ -10,6 +10,9 @@ ms.author: mosagie
 #Customer intent: As a satellite operator or user, I want to learn about ground station licensing.
 ---
 
+> [!NOTE]
+> [Azure Orbital Ground Station is retiring on December 18th, 2024](https://azure.microsoft.com/en-us/updates?id=Azure-Orbital-Ground-Station-Retirement) and has stopped issuing new authorizations."
+
 # Initiate ground station licensing
 
 ## About satellite and ground station licensing
